@@ -1,0 +1,10 @@
+python-dotenv
+pytrends
+producthunt
+beautifulsoup4
+requests
+pandas
+scikit-learn
+openai
+
+
